@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.http</groupId>
   <artifactId>HttpClientProj</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
   <packaging>kjar</packaging>
   <name>HttpClientProj</name>
   <description></description>
